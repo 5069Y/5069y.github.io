@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@font-face {
+    font-family: "Century Gothic";
+    src: url('fonts/centurygothic.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Century Gothic";
+    src: url('fonts/centurygothic_bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+body {
+    background: #131313;
+    color: white;
+    font-family: "Century Gothic", Verdana, "Geneva", Tahoma, sans-serif;
+    font-weight: 400;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.top {
+    background: #262626;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header1 {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-size: 40pt;
+    padding-top: 10px;
+    margin: 0;
+}
+
+.header2 {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-size: 30pt;
+    padding: 0px;
+    margin: 0;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+}
