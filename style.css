@@ -120,7 +120,7 @@ h3.header3 {
 
 div.menu_icon {
     position: fixed;
-    right: 30px;
+    right: 20px;
     top: 10px;
     align-self: center;
     transition: transform 0.3s;
